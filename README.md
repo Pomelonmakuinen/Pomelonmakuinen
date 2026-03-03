@@ -3,7 +3,10 @@ Hi, i'm Shibe. A finnish software-dev student in Vuoksi.
 ## 📖 My studies
 3D-modelling in Blender, game development in Unity and C#. \
 ## 🏍️ My hobbies
-My hobbies include tinkering with motor vehicles, software development in Unity etc.
+My hobbies include
+- Content creation in the form of photography, videography and editing.
+- tinkering with motor vehicles.
+- software development in Unity etc.
 ## 🗿 My skills
 1. Coding languages:
   - C#
